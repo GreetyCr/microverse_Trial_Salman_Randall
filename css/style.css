@@ -3,3 +3,13 @@
         font-size: 7px;
     }
 }
+
+#welcome-section {
+    height: 100vh;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
